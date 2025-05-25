@@ -4,6 +4,7 @@
   "package": "com.joyforge.thelittlethings.thelittlethings.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "SculkSensorBlockEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
